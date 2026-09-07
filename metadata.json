@@ -1,0 +1,10 @@
+{
+  "name": "Smart Tourism Geopark Ciletuh",
+  "description": "Platform wisata digital terintegrasi berbasis Smart Trip Planner, Virtual Travel, dan Smart Budgeting untuk UNESCO Global Geopark Ciletuh.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
