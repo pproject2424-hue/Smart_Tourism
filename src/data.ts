@@ -15,7 +15,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0001',
     rating: 4.8,
     reviewsCount: 342,
-    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://d34vm3j4h7f97z.cloudfront.net/optimized/4X/9/2/f/92ff8197dd98089019a9df6b51b17c264f392235_2_999x748.jpeg',
     facilities: ['Area Parkir Luas', 'Warung Kuliner Lokal', 'Mushola', 'Toilet Bersih', 'Spot Foto Instagramable', 'Gazebo Istirahat'],
     spots: ['Gardu Pandang Utama', 'Ayunan Sunset', 'Jembatan Selfie Kayu'],
     weatherRealtime: {
