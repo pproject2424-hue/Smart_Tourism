@@ -63,7 +63,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0003',
     rating: 4.6,
     reviewsCount: 195,
-    image: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://indonesiatraveler.id/wp-content/uploads/2021/06/Sukabumi-Curug-Awang-Photo-by-@chitraachiet.png',
     facilities: ['Area Parkir Mobil', 'Sewa Sandal Gunung', 'Kantin Desa Wisata', 'Papan Informasi Geologi'],
     spots: ['Tebing Niagara Utama', 'Spot Pandang Ketinggian', 'Aliran Sungai Ciletuh Purba'],
     weatherRealtime: {
@@ -87,7 +87,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0004',
     rating: 4.5,
     reviewsCount: 412,
-    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://image.idntimes.com/post/20251029/upload_5f366bcda12ff08df3eccdd561b0f554_82c28c02-22db-4cbb-a349-24016d54776f.jpg',
     facilities: ['Pusat Informasi Smart Tourism', 'Dermaga Perahu Wisata', 'Pasar Ikan Segar', 'Warung Seafood', 'Mushola Agung', 'Home-stay pinggir pantai'],
     spots: ['Monumen Geopark Ciletuh', 'Dermaga Nelayan Tradisional', 'Area Paralayang Landing Zone'],
     weatherRealtime: {
@@ -111,7 +111,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0005',
     rating: 4.9,
     reviewsCount: 520,
-    image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaHgegqNiaSQ2-KbSsWKCMWmzsboMO2qtBD7UoH_284YBNWKOFfhSlte36&s=10',
     facilities: ['Pusat Konservasi Geologi', 'Teleskop Observasi', 'Papan Interaktif GIS', 'Cinderamata Geopark', 'Penginapan Wisata'],
     spots: ['Menara Pandang Panenjoan', 'Situs Batuan Sedimen Eosen', 'Signage Ikonik Panenjoan'],
     weatherRealtime: {
@@ -135,7 +135,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0006',
     rating: 4.7,
     reviewsCount: 120,
-    image: 'https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://sukabumiku.id/wp-content/uploads/2025/07/Asep-Hidayat-Mustopa_act.jpg',
     facilities: ['Saung Edukasi Hanjeli', 'Lesung Tradisional', 'Homestay Syariah', 'Paket Makan Nasi Hanjeli', 'Toko Oleh-oleh Biji Hanjeli'],
     spots: ['Kebun Hanjeli Percontohan', 'Dapur Pengolahan Bubur Hanjeli', 'Galeri Kerajinan Manik-manik'],
     weatherRealtime: {
@@ -159,7 +159,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0007',
     rating: 4.8,
     reviewsCount: 165,
-    image: 'https://images.unsplash.com/photo-1583212292454-1fe6229603b7?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://img.merahputih.com/media/41/9f/f3/419ff355ea2dc5a863ae2114165c3562.jpg',
     facilities: ['Menginap di Rumah Adat', 'Pemandu Budaya', 'Upacara Tradisional', 'Sewa Pakaian Adat Sunda', 'Kantin Kuliner Adat'],
     spots: ['Leuit Si Jimat (Lumbung Adat)', 'Imah Gede Kasepuhan', 'Museum Alat Pertanian Purba'],
     weatherRealtime: {
@@ -183,7 +183,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0008',
     rating: 4.9,
     reviewsCount: 185,
-    image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://ciletuhhills.com/wp-content/uploads/2020/09/exclusive_lodge-9.jpg',
     facilities: ['Infinite Ocean View Pool', 'Restoran Internasional Ciletuh', 'Wi-Fi Kecepatan Tinggi', 'Sewa Sepeda Listrik Resort', 'Area Api Unggun'],
     spots: ['Restoran Teras Kaca', 'Gardu Pandang Air Terjun Private', 'Jogging Area Lereng Tebing'],
     weatherRealtime: {
@@ -218,7 +218,7 @@ export const initialReviews: Review[] = [
     id: 'rev-3',
     destinationId: 'curug-cimarinjung',
     author: 'Bambang Kusuma',
-    avatar: 'https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=100&q=80',
+    avatar: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3e/aa/1d/img-20180811-074054-largejpg.jpg?w=1200&h=-1&s=1',
     rating: 5,
     date: '2026-05-25',
     comment: 'Luar biasa! Dinding batu purbanya memiliki tekstur merah yang khas. Air mengalir deras bahkan ketika rintik hujan. Destinasi wisata wajib di Ciletuh!'
