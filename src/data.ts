@@ -39,7 +39,7 @@ export const initialDestinations: Destination[] = [
     contactNumber: '+62 821-2345-0002',
     rating: 4.7,
     reviewsCount: 289,
-    image: 'https://images.unsplash.com/photo-1433832597046-4f10e10ac764?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://indonesiatraveler.id/wp-content/uploads/2021/07/Sukabumi-Curug-Cimarinjung-Photo-by-@maenaer.png',
     facilities: ['Pemandu Lokal', 'Kedai Minuman', 'Toilet & Ruang Ganti', 'Toko Souvenir', 'Jalur Treking Berlevel'],
     spots: ['Dek Pemantau Bawah', 'Tebing Batu Purba Merah', 'Spot Foto Jembatan Curug'],
     weatherRealtime: {
