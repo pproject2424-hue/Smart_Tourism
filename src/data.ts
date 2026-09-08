@@ -230,7 +230,7 @@ export const initialVirtualTours: VirtualTourSpot[] = [
     id: 'v-cimarinjung',
     name: 'Curug Cimarinjung Virtual 360°',
     description: 'Jelajahi keagungan air terjun ikonik Ciletuh purba dengan latar belakang tebing andesit megah, deburan air, dan visual lingkungan sekitar yang memukau secara virtual.',
-    image360: 'https://images.unsplash.com/photo-1433832597046-4f10e10ac764?auto=format&fit=crop&w=1200&q=80',
+    image360: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3e/aa/1d/img-20180811-074054-largejpg.jpg?w=1200&h=-1&s=1',
     audioGuideUrl: '#audio-cimarinjung',
     droneVideoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-a-jungle-waterfall-43184-large.mp4',
     hotspots: [
