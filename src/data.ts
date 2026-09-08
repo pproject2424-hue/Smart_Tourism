@@ -242,7 +242,7 @@ export const initialVirtualTours: VirtualTourSpot[] = [
     id: 'v-awang',
     name: 'Curug Awang "Niagara" Java',
     description: 'Saksikan kemegahan bentang tebing aliran horizontal nan luas yang menyembur hebat bak Niagara Falls, dikelilingi hutan hujan asri.',
-    image360: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80',
+    image360: 'https://indonesiatraveler.id/wp-content/uploads/2021/06/Sukabumi-Curug-Awang-Photo-by-@artmanphotostory.png',
     audioGuideUrl: '#audio-awang',
     droneVideoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-waterfall-flowing-into-a-river-in-a-forest-41584-large.mp4',
     hotspots: [
@@ -264,7 +264,7 @@ export const initialVirtualTours: VirtualTourSpot[] = [
     id: 'v-darma',
     name: 'Puncak Darma Sunsets Point',
     description: 'Menikmati megahnya bentukan Amphitheatre alam tapal kuda yang menghadap langsung ke arah cakrawala samudera lepas.',
-    image360: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80',
+    image360: 'https://travelspromo.com/wp-content/uploads/2022/02/Puncak-Darma-agung-putranto.jpg',
     audioGuideUrl: '#audio-darma',
     droneVideoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-top-view-of-green-woods-and-cliffs-41527-large.mp4',
     hotspots: [
@@ -275,7 +275,7 @@ export const initialVirtualTours: VirtualTourSpot[] = [
     id: 'v-panenjoan',
     name: 'Geosite Amphitheatre Panenjoan',
     description: 'Menjejak tebing observasi Panenjoan dengan panel data geologi murni dan interaktif GIS di genggaman Anda.',
-    image360: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80',
+    image360: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5a/71/57/amfiteater.jpg?w=1000&h=1000&s=1',
     audioGuideUrl: '#audio-panenjoan',
     droneVideoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-rolling-hills-with-a-deep-green-color-41530-large.mp4',
     hotspots: [
@@ -291,7 +291,7 @@ export const initialProducts: Product[] = [
     category: 'fashion',
     price: 350000,
     description: 'Kain batik cap sutra premium handmade yang menggambarkan motif keunikan hayati dan batuan purba Geopark Ciletuh, bermotif amonit fosil dan curug ikonik.',
-    image: 'https://images.unsplash.com/photo-1590736969955-71cb948017bf?auto=format&fit=crop&w=500&q=80',
+    image: 'https://cdn.antaranews.com/cache/1200x800/2013/10/batik.jpg',
     seller: 'Galeri Batik Ciletuh Lestari',
     rating: 4.9,
     stock: 12
@@ -301,8 +301,8 @@ export const initialProducts: Product[] = [
     name: 'Kerajinan Manik-manik Hanjeli',
     category: 'craft',
     price: 45000,
-    description: 'Kalung dan gelang elegan hasil anyaman biji hanjali asli yang memiliki tekstur keras mengkilap secara alami tanpa pernis kimia.',
-    image: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=500&q=80',
+    description: 'Tas dan gelang elegan hasil anyaman biji hanjali asli yang memiliki tekstur keras mengkilap secara alami tanpa pernis kimia.',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwfQMgYFdCqeYgakFEEgnlJwVg4X5zNTvnXPE0bbFHOFSrVese9k8pNk&s=10',
     seller: 'UMKM Mandiri Desa Waluran',
     rating: 4.6,
     stock: 150
@@ -313,7 +313,7 @@ export const initialProducts: Product[] = [
     category: 'food',
     price: 25000,
     description: 'Rengginang renyah inovatif dari paduan biji beras ketan dan beras hanjeli organik berkualitas tinggi yang gurih, kaya gizi dan serat pangan alami.',
-    image: 'https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=500&q=80',
+    image: 'https://s.kaskus.id/images/2022/11/28/10035188_202211281118120620.jpg',
     seller: 'Kedai Komunitas Desa Hanjeli',
     rating: 4.8,
     stock: 80
@@ -324,7 +324,7 @@ export const initialProducts: Product[] = [
     category: 'food',
     price: 65000,
     description: 'Virgin Coconut Oil perasan dingin higienis dari kelapa pesisir pantai Palangpang murni yang memiliki beraneka khasiat bagi kesehatan dan kulit.',
-    image: 'https://images.unsplash.com/photo-1471193945509-9ad0617afabf?auto=format&fit=crop&w=500&q=80',
+    image: 'https://www.health.com/thmb/5gtz5WeOgiC_k6PTVMZXMBDlIBQ=/2120x0/filters:no_upscale():max_bytes(150000):strip_icc()/evoo-7c819bcdd0c343a7bae114cbc9baea2f.jpg',
     seller: 'UMKM Kelapa Pesisir Jaya',
     rating: 4.7,
     stock: 50
